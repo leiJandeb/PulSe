@@ -1,0 +1,10 @@
+Package: com.pulse.jailbreak
+Name: PulSe
+Description: A sleek and modern jailbreak interface built on Dopamine.
+Maintainer: eure, leiJan
+Author: eure, leiJan
+Section: Utilities
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 1.2.0-1+debug
+Installed-Size: 7092
